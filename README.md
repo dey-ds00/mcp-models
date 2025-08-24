@@ -20,8 +20,8 @@ Think of it as a universal interface for extending model capabilities.
 ## 🚀 Getting Started
 
 1. **Clone the repository**  
-   git clone https://github.com/dey-ds00/mcp-models.git
-   cd mcp-models
+   - git clone https://github.com/dey-ds00/mcp-models.git
+   *cd mcp-models*
    
 2. **Navigate to an agent/tool folder**
    cd web-searched-agent
