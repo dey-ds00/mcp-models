@@ -29,7 +29,7 @@ Think of it as a universal interface for extending model capabilities.
       - cd web-searched-agent
    
 3. **Activate venv and Install dependencies**
-   - ~bash
+   - ~
       - source .venv/bin/activate
       - uv sync
    
