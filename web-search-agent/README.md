@@ -40,7 +40,7 @@ You need two API keys:Update the .env file:
    > cd ai-web-search-agent
 
 2. Setup virtual environment (using uv)
-   > uv venv
+   > uv venv  
    > source .venv/bin/activate
    
 3. Install Dependencies
@@ -65,6 +65,7 @@ You need two API keys:Update the .env file:
 3. Gemini LLM API processes results → provides summaries/answers.
 
 4. Results are returned in a clean, structured format.
+
 
 
 
