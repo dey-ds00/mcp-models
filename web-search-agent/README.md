@@ -36,7 +36,7 @@ You need two API keys:Update the .env file:
 🛠️ Installation
 
 1. Clone the repo
-   > git clone https://github.com/your-username/ai-web-search-agent.git
+   > git clone https://github.com/your-username/ai-web-search-agent.git  
    > cd ai-web-search-agent
 
 2. Setup virtual environment (using uv)
@@ -65,6 +65,7 @@ You need two API keys:Update the .env file:
 3. Gemini LLM API processes results → provides summaries/answers.
 
 4. Results are returned in a clean, structured format.
+
 
 
 
