@@ -51,8 +51,8 @@ You need two API keys:Update the .env file:
 
 
 ▶️ Run the agent  
-  > uv run main.py
-***Then, you can start querying:***
+  > uv run main.py  
+***Then, you can start querying:***  
 **---  "What are the latest headlines on Hindustan Times."**
 
 
@@ -65,6 +65,7 @@ You need two API keys:Update the .env file:
 3. Gemini LLM API processes results → provides summaries/answers.
 
 4. Results are returned in a clean, structured format.
+
 
 
 
