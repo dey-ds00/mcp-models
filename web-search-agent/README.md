@@ -28,8 +28,8 @@ This project is an AI-powered web search agent that leverages Firecrawl MCP for 
 🔑 API Keys
 
 You need two API keys:Update the .env file:
-> GOOGLE_API_KEY=your_google_api_key_here
-> FIRECRAWL_API_KEY=your_firecrawl_api_key_here
+  > GOOGLE_API_KEY=your_google_api_key_here
+  > FIRECRAWL_API_KEY=your_firecrawl_api_key_here
 
     
 
@@ -65,5 +65,6 @@ You need two API keys:Update the .env file:
 3. Gemini LLM API processes results → provides summaries/answers.
 
 4. Results are returned in a clean, structured format.
+
 
 
