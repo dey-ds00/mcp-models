@@ -46,12 +46,12 @@ You need two API keys:Update the .env file:
 3. Install Dependencies
    > uv sync
 
-
 ⚙️ On System: Node.js v24.x or higher (required for running Firecrawl MCP via npx)
 
 
-▶️ Run the agent
-      > uv run main.py
+
+▶️ Run the agent  
+  > uv run main.py
 ***Then, you can start querying:***
 **---  "What are the latest headlines on Hindustan Times."**
 
@@ -65,6 +65,7 @@ You need two API keys:Update the .env file:
 3. Gemini LLM API processes results → provides summaries/answers.
 
 4. Results are returned in a clean, structured format.
+
 
 
 
