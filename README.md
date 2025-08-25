@@ -17,27 +17,3 @@ Think of it as a universal interface for extending model capabilities.
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   - ~$
-      - git clone https://github.com/dey-ds00/mcp-models.git
-      - cd mcp-models
-   
-2. **Navigate to an agent/tool folder**
-   - ~$
-      - cd web-searched-agent
-   
-3. **Activate venv and Install dependencies**
-   - ~$
-      - source .venv/bin/activate
-      - uv sync
-   
-4. **Run the agent/tool**
-   - ~$
-      - uv run agent.py
-
-
-**See each agent’s README for specifics on usage, configuration, inputs, and behavior**
-
-
